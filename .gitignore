@@ -1,0 +1,5 @@
+venv
+virtualenv
+.swp
+.idea
+.vscode
