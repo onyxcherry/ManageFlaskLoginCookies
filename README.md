@@ -1,5 +1,5 @@
 # Create and decode Flask-Login cookies
-## Brief scripts that helps in debugging your Flask app
+## Brief scripts that helps in debugging and testing your Flask app's session with Flask-Login cookies
 
 When you decode any cookie (e.g.
 `.eJwlzrkNwkAQAMBeLibY7z43Y-3tI0htHCF6xxLxJPMpex5xPsv2Pq54lP3lZSsdFxOCJWdgQEJdYNJ0yeCs7rcau0hI1qA6OkzkzoMBIbk18SSsuUBNPVS5LydAAxFX1IoqomlITDyVklImmndkG21KlDtynXH8N1S-P7i0LyI.XzztZw.69XSr95anbpcU_9uHkf9-HcQ4JQ
