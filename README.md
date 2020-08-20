@@ -46,11 +46,13 @@ def show_session():
 and compare the obtained result with your cookie.
 
 ### Usage:
-* Create cookie: edit `remote_address` and `user_agent` field (as string!) and type `python3 create_cookie.py`
+* Create an `_id` in cookie: edit `remote_address` and `user_agent` field (as string!) and type `python3 create_cookie.py`
 * Decode cookie: edit `cookie` field (as string!) and type `python3 decode_cookie.py`
+* Create whole cookie - use [this tool](https://gist.github.com/aescalana/7e0bc39b95baa334074707f73bc64bfe)
 
 ### Requirements:
 * itsdangerous
 
 ### Credits:
 * [Flask Session Cookie Decoder](https://www.kirsle.net/wizards/flask-session.cgi)
+* [Encoding and decoding Flask-Login cookies](https://gist.github.com/aescalana/7e0bc39b95baa334074707f73bc64bfe)
